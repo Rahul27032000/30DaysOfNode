@@ -24,7 +24,7 @@
 npm-debug.log
 
 # Ignore yarn.lock (useful if you're using npm)
-yarn.lock
+# yarn.lock
 
 # Ignore OS-specific files
 .DS_Store
